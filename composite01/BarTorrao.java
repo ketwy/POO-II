@@ -8,9 +8,5 @@ public class BarTorrao extends Menu
         return "Cana, tira-gosto e mais nada";
     }
     
-    public double getPrice(){
-        return 0;
-    }
-    
           
 }

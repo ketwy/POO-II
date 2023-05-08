@@ -8,9 +8,5 @@ public class RestauranteLuzia extends Menu
         return "Comida caseira sertaneja";
     }
     
-    public double getPrice(){
-        return 0;
-    }
-    
           
 }

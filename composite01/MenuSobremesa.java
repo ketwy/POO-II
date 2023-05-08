@@ -18,8 +18,5 @@ public class MenuSobremesa extends Menu
    public String getDescription(){
         return "Do Doceiro Guilherme Arcanjo";
     }
-    
-   public double getPrice(){
-        return 0;
-    }
+
 }

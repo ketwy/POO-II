@@ -11,9 +11,5 @@ public class MenuBarRestaurante extends Menu
         return "Organizacao - Luzia e Torrao";
     }
     
-    public double getPrice(){
-        return 0;
-    }
-    
           
 }
